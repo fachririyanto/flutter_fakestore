@@ -1,6 +1,6 @@
 {
-    "name": "flutter_moviedb",
-    "short_name": "flutter_moviedb",
+    "name": "flutter_fakestore",
+    "short_name": "flutter_fakestore",
     "start_url": ".",
     "display": "standalone",
     "background_color": "#0175C2",
